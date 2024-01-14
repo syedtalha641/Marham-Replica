@@ -20,7 +20,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   AZURE_WEBAPP_NAME: marhamapi    # set this to your application's name
